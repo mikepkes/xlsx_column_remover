@@ -1,0 +1,7 @@
+# To Use:
+* Put all source files in one directory.  Files can be mixed with others and nested, but the script needs a single directory to choose.
+* Create an output directory for the results to be placed in.
+* Right-click on script and choose "Run with Powershell"
+* The first dialog will ask you for a folder to select as the source.
+* The second dialog will ask you for a folder to select as the output.
+* The last dialog will ask for the column letters to be specified.  If removing multiple columns, use commas (with no other spaces) to separate them.
